@@ -315,3 +315,11 @@ button {
   .image {
     position: absolute
   }
+  figure {
+  border: 8px solid purple;
+  display: inline-block;
+  }
+  img {
+  border: 4px solid yellow;
+  margin-bottom: -4px;
+  }  
